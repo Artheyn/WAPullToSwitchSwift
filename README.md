@@ -1,7 +1,7 @@
 # Pull To Switch component (Swift Version) #
 ---
 
-![SVProgressHUD](resources/WAPullToSwitchGif.gif)
+![WAPullToSwitchGifAnimation](./WAPullToSwitchGif.gif)
 
 A simple component that allows you to switch between two views, animated using the power and the simplicity of UIKit Dynamics and inspired by the well-known gesture "Pull to refresh".
 
